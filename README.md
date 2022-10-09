@@ -7,8 +7,7 @@ Nome do Projeto
 📑 Sobre o projeto
 - O intuito do projeto foi em criar uma landing page após aprender conceitos de HTML e CSS através de lições gratuitas assistidas no youtube!
 
-📆 Implementações futuras e melhorias
-Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
+📆 Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
 - Adição de Javascript para que possa adicionar dinamismo a página!
 
 Sugestões 🗣
