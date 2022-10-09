@@ -1,5 +1,5 @@
 Nome do Projeto
-Land Day
+- Land Day
 
 📲 Link do deploy
 Use a aplicação em Link do deploy
