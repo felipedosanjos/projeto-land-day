@@ -2,7 +2,7 @@ Nome do Projeto
 - Land Day
 
 📲 Link do deploy
-Use a aplicação em Link do deploy
+- https://felipedosanjos.github.io/projeto-land-day/
 
 📑 Sobre o projeto
 O intuito do projeto foi em criar uma landing page após aprender conceitos de HTML e CSS através de lições gratuitas assistidas no youtube!
