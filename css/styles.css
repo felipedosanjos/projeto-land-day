@@ -171,7 +171,6 @@ body {
     margin-bottom: 0.5rem;
   }
   
-  /* Responsivo */
   @media (max-width: 450px) {
     body {
       flex-direction: column;
